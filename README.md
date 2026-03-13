@@ -29,7 +29,13 @@ artificial intelligence is the future of technology
 Run 3
 ```
 machine learning is powerful and used in ai
-```
+---
+
+## Example Output
+
+Below is a screenshot of the generated text using the Markov Chain model.
+
+![Program Output](output.png)
 
 Technologies Used:
 - Python
