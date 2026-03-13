@@ -14,7 +14,22 @@ The model predicts the next word based on previous words and generates new text 
 
 ## Example Output
 Generated Text:
-the world. artificial intelligence is the future.
+## Sample Outputs
+
+Run 1
+```
+machine learning is transforming the world
+```
+
+Run 2
+```
+artificial intelligence is the future of technology
+```
+
+Run 3
+```
+machine learning is powerful and used in ai
+```
 
 Technologies Used:
 - Python
