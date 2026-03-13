@@ -12,6 +12,10 @@ This project implements a simple text generation algorithm using Markov chains.
 
 The model predicts the next word based on previous words and generates new text from a training dataset.
 
+## Example Output
+Generated Text:
+the world. artificial intelligence is the future.
+
 Technologies Used:
 - Python
 - Markov Chain Model
