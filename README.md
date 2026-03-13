@@ -15,27 +15,14 @@ The model predicts the next word based on previous words and generates new text 
 ## Example Output
 Generated Text:
 ## Sample Outputs
-
-Run 1
-```
-machine learning is transforming the world
-```
-
-Run 2
-```
-artificial intelligence is the future of technology
-```
-
-Run 3
-```
-machine learning is powerful and used in ai
----
-
 ## Example Output
 
-Below is a screenshot of the generated text using the Markov Chain model.
+```
+Generated Text:
 
-![Program Output](output.png)
+```
+
+
 
 Technologies Used:
 - Python
